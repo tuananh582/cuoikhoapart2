@@ -25,7 +25,7 @@ const Footer = () => {
                             <Link to="/">X-Beat</Link>
                         </h2>
                         <div className="foot_subs">
-                            <p>Subscribe to our Email alerts to receive early discount offers, and new products info.</p>
+                            <p>Register to our Email alerts to receive early discount offers, and new products info.</p>
                             <form onSubmit={handleSubmit}>
                                 <input
                                     type="email"
@@ -35,7 +35,7 @@ const Footer = () => {
                                     value={subValue}
                                     onChange={(e) => setSubValue(e.target.value)}
                                 />
-                                <button type="submit" className="btn">Subscribe</button>
+                                <button type="submit" className="btn">Register</button>
                             </form>
                         </div>
                     </div>
