@@ -375,6 +375,7 @@ const productsData = [
         id: 18,
         images: [
             "/images/products/sony-ex14ap-1.png",
+            // "/images/products/tai-nghe-khong-day-apple-airpods-3-pos-3-didongviet.png",
             "/images/products/sony-ex14ap-2.png",
             "/images/products/sony-ex14ap-3.png",
             "/images/products/sony-ex14ap-4.png"
