@@ -22,7 +22,7 @@ const Footer = () => {
                 <div className="wrapper footer_wrapper">
                     <div className="foot_about">
                         <h2>
-                            <Link to="/">X-Beat</Link>
+                            <Link to="/">Team-1</Link>
                         </h2>
                         <div className="foot_subs">
                             <p>Register to our Email alerts to receive early discount offers, and new products info.</p>
@@ -72,8 +72,8 @@ const Footer = () => {
                     <div className="sub_footer_wrapper">
                         <div className="foot_copyright">
                             <p>
-                                {currYear} | XBeat. All Rights Reserved.
-                                Built by | <a href="https://gulshansongara.netlify.app/">Gulshan Songara</a>
+                                {currYear} |  All Rights Reserved.
+                                Built by | <a href="https://gulshansongara.netlify.app/">Team 1</a>
                             </p>
                         </div>
                         <div className="foot_social">
